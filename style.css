@@ -462,7 +462,7 @@ footer{
     animation: jump 3s ease-in-out .4s infinite;
 }
 #card-3{
-    background: url('/images/desktop/image-gallery-cone.jpg');
+    background: url('desktop/image-gallery-cone.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     animation: jump 3s ease-in-out .6s infinite;
