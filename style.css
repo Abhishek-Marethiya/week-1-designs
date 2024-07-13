@@ -15,7 +15,7 @@ html{
 header {
     width: 100%;
     height: 110vh;
-    background: url('/images/desktop/image-header.jpg');
+    background: url('desktop/image-header.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -286,7 +286,7 @@ header h1 {
     }
 }
 .service-1{
-   background: url('/images/desktop/image-graphic-design.jpg');
+   background: url('desktop/image-graphic-design.jpg');
    background-repeat: no-repeat;
    background-size:cover;
    background-position:center;
@@ -297,7 +297,7 @@ header h1 {
    transition: all .4s ease-in-out;
 }
 .service-2{
-    background: url('../images/desktop/image-photography.jpg');
+    background: url('desktop/image-photography.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -449,14 +449,14 @@ footer{
 
 
 #card-1{
-    background: url('/images/desktop/image-gallery-milkbottles.jpg');
+    background: url('desktop/image-gallery-milkbottles.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     animation: jump 3s ease-in-out .2s infinite;
     /* animation: jumpAndRotate 5s infinite; */
 }
 #card-2{
-    background: url('/images/desktop/image-gallery-orange.jpg');
+    background: url('desktop/image-gallery-orange.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     animation: jump 3s ease-in-out .4s infinite;
@@ -469,7 +469,7 @@ footer{
 
 }
 #card-4{
-    background: url('/images/desktop/image-gallery-sugarcubes.jpg');
+    background: url('desktop/image-gallery-sugarcubes.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     animation: jump 3s ease-in-out .8s infinite;
